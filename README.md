@@ -15,54 +15,6 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-### Each card usage
----
-
-![](./0-profile-details.svg)
-
-
-![](https://raw.githubusercontent.com/MathLevi20/MathLevi20/main/profile-summary-card-output/default/0-profile-details.svg)
-
-
-    
-
----
-
-![](./1-repos-per-language.svg)
-
-
-![](https://raw.githubusercontent.com/MathLevi20/MathLevi20/main/profile-summary-card-output/default/1-repos-per-language.svg)
-
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-
-![](https://raw.githubusercontent.com/MathLevi20/MathLevi20/main/profile-summary-card-output/default/2-most-commit-language.svg)
-
-
-    
-
----
-
-![](./3-stats.svg)
-
-
-![](https://raw.githubusercontent.com/MathLevi20/MathLevi20/main/profile-summary-card-output/default/3-stats.svg)
-
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-
-![](https://raw.githubusercontent.com/MathLevi20/MathLevi20//main/profile-summary-card-output/default/4-productive-time.svg)
-
 
 <!--
 **MathLevi20/MathLevi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
