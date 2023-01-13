@@ -1,10 +1,10 @@
-
 ## Hi! I'm Matheus 🖐️
+
+**"I am a Full Stack developer and AI and Data Science enthusiast with experience in JavaScript, TypeScript, React, Python, Flask. My goal is to combine my software development skills with my passion for AI and Data Science to build intelligent and innovative solutions. On my Github, you can find personal projects and open-source contributions that demonstrate my skills and knowledge in these technologies, as well as my passion for AI and Data Science."**
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MathLevi20&show_icons=true&theme=dracula&count_private=true)
 
 ## Technologies I use in my day
-"Sou um desenvolvedor Full Stack e entusiasta em Inteligência Artificial e Ciência de Dados, com experiência em JavaScript, TypeScript, React, Python e Flask. Meu objetivo é combinar minhas habilidades em desenvolvimento de software com minha paixão pela IA e Ciência de Dados para construir soluções inteligentes e inovadoras. No meu Github, você pode encontrar projetos pessoais e contribuições para comunidade open-source, que demonstram minhas habilidades e conhecimento dessas tecnologias e minha paixão pela IA e Ciência de Dados."
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
