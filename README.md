@@ -19,7 +19,8 @@
 
 ## Contacts
 <div style="display: inline_block">
-  <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/in/matheus-levi-621125150" />
+  <a href= "https://linkedin.com/in/matheus-levi-621125150">
+  <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/in/matheus-levi-621125150" /><a/>
 
 </div><br/>
 
