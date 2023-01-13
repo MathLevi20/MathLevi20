@@ -22,7 +22,7 @@
   <a href= "https://linkedin.com/in/matheus-levi-621125150">
   <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/in/matheus-levi-621125150" /><a/>
   <a href= "matheuslevi2012@gmail.com">
-  <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+  <img align="center" alt="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a/>
 </div><br/>
 
 <!--
