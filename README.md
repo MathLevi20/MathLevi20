@@ -15,11 +15,8 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 </div><br/>
-<div>
-<a href="https://github.com/seu-usuário-aqui">
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=compact)
-</div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=compact)
 
 ## Contacts
 <div style="display: inline_block">
