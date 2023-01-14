@@ -20,7 +20,7 @@
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?MathLevi20&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=compact)](https://github.com/MathLevi20/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=compact)]
 
 ## Contacts
 <div style="display: inline_block">
