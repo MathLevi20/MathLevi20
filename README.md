@@ -16,7 +16,7 @@
 
 </div><br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=graywhite)
 
 ## Contacts
 <div style="display: inline_block">
