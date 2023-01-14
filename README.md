@@ -2,7 +2,7 @@
 
 **"I am a Full Stack developer and AI and Data Science enthusiast with experience in JavaScript, TypeScript, React, Python, Flask. My goal is to combine my software development skills with my passion for AI and Data Science to build intelligent and innovative solutions. On my Github, you can find personal projects and open-source contributions that demonstrate my skills and knowledge in these technologies, as well as my passion for AI and Data Science."**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MathLevi20&show_icons=true&theme=dracula&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MathLevi20&show_icons=true&theme=graywhite&count_private=true)
 ## Technologies I use in my day
 
 <div style="display: inline_block">
