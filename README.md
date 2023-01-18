@@ -4,7 +4,7 @@
 
 ## Technologies I use in my day
 
-<div align="center">
+<div style="display: inline_block">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MathLevi20&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -19,8 +19,6 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 </div><br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathLevi20&layout=graywhite)
 
 ## Contacts
 <div style="display: inline_block">
