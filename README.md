@@ -17,7 +17,11 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
 </div><br/>
+<div style="display: inline_block">
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 
+</div><br/>
 ## Contacts
 <div style="display: inline_block">
   <a href= "https://linkedin.com/in/matheus-levi-621125150">
